@@ -1,7 +1,7 @@
 # Activation_Maximization
 
 Axtivation Maximizationの実装  
-参考文献は下記です。実装含め何か間違いがありそうでしたらIsueをください。
+参考文献は下記です。実装含め何か間違いがありそうでしたらIssueをください。
 
 Understanding Neural Networks　via Feature Visualization: A survey  
 Anh Nguyen, Jason Yosinski, Jeff Clune  
